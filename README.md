@@ -4,12 +4,12 @@ Arches is a SaaS built for UPS franchises (soon other franchises). We handle thi
 
 Screenshots:
 
-![](/media/1.png)
-![](/media/2.png)
-![](/media/3.png)
-![](/media/4.png)
-![](/media/5.png)
-![](/media/6.png)
+![](/media/1.jpeg)
+![](/media/2.jpeg)
+![](/media/3.jpeg)
+![](/media/4.jpeg)
+![](/media/5.jpeg)
+![](/media/6.jpeg)
 
 
 
